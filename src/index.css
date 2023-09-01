@@ -39,6 +39,7 @@ body {
 }
 
 .smallHeader {
+  padding: 1%;
   font-size: 1.75em;
   font-weight: bold;
   color: #3B0B0B;
@@ -138,6 +139,11 @@ ul {
 .footer {
   padding: 1%;
   clear: both;
+}
+
+.image {
+  width: 100%;
+  height: auto;
 }
 
 
