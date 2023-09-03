@@ -146,6 +146,14 @@ ul {
   height: auto;
 }
 
+.Filter {
+  padding-bottom: 1%;
+}
+
+.reset-button {
+  margin: 1%
+}
+
 
 @keyframes App-logo-spin {
   from {
